@@ -1,2 +1,2 @@
-# GALab8
+# GALab8aaa
 GitHub Actions - przegląd podstawowych rozwiązań
